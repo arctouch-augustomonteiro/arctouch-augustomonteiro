@@ -3,7 +3,6 @@
 ### I'm Augusto Monteiro 👨🏼‍💻
 
 - 📱 I'm an iOS Software Engineer
-- 🌱 I’m currently learning SwiftUI
 
 ##
 
